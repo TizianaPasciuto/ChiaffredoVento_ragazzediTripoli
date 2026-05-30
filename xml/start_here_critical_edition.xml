@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<!--<?xml-model href="schema/tei_dse.rng"?>-->
+<!--<!DOCTYPE TEI SYSTEM "schema/tei_dse.dtd">-->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <!-- supply a title -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <!-- supply publication information -->
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><!-- supply information about the source --></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+
+    <front>
+      <div>
+        <listWit>
+          <head>Lista testimoni per il testo De Vitry</head>
+          <witness xml:id="P2">Paris, B.N., lat. 3284, ff. 107r-110r</witness>
+          <witness xml:id="W">*****</witness>
+          <witness xml:id="Y">*****</witness>
+          <witness xml:id="Z">*****</witness>
+          <!--<witness xml:id="XX">
+            <msDesc>
+              <msIdentifier>
+                <settlement>*****</settlement>
+                <repository>*****</repository>
+                <msName>*****</msName>
+              </msIdentifier>
+            </msDesc>
+          </witness>-->
+        </listWit>
+      </div>
+    </front>
+
+    <body>
+      <div>
+        <head></head>
+        <p></p>
+      </div>
+    </body>
+
+  </text>
+
+</TEI>

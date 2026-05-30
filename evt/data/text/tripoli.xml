@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Il ritorno delle ragazze di Tripoli</title>
+				<author>Chiaffredo Vento</author>
+				<respStmt>
+					<resp>Text Encoding by </resp>
+					<name>Tiziana Pasciuto</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability>
+					<p>This document is being made available for demonstration and testing purposes only.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+               <!-- Informazioni su autore e lingua -->
+               <msContents>
+                  <msItem>
+                     <textLang mainLang="italian">Italiano</textLang>
+                  </msItem>
+               </msContents>
+
+            <!-- ########## Lista Persone ########## -->
+            <listPerson>
+               <head>Lista Persone</head>
+               <!-- ########## A ########## -->
+               <person xml:id="Anita">
+                  <persName>
+                     <forename>Anita</forename>
+                     <surname></surname>
+                  </persName>
+                  <sex>F</sex>
+               </person>
+			   <!-- ########## G ########## -->
+               <person xml:id="Gera">
+                  <persName>
+                     <forename>Gera</forename>
+                     <surname></surname>
+                  </persName>
+                  <sex>F</sex>
+               </person>
+               <!-- ########## M ########## -->
+               <person xml:id="Margherita">
+                  <persName>
+                     <forename>Margherita</forename>
+                     <surname></surname>
+                  </persName>
+                  <sex>F</sex>
+               </person>			   
+               <!-- ########## R ########## -->
+               <person xml:id="Rosina">
+                  <persName>
+                     <forename>Rosina</forename>
+                     <surname></surname>
+                  </persName>
+                  <sex>F</sex>
+               </person>
+            </listPerson>
+
+            <!-- ########## Lista dei luoghi ########## -->
+            <listPlace>
+               <head>Lista dei luoghi</head>
+			   <place xml:id="Derna">
+                  <settlement type="località">Derna</settlement>
+				  <location>
+					<geo decls="#WGS">Lat 32.7602 Lng 22.6474</geo>
+				  </location>
+               </place>
+			   <place xml:id="Firenze">
+                  <settlement type="località">Firenze</settlement>
+				  <location>
+					<geo decls="#WGS">Lat 43.7712 Lng 11.2533</geo>
+				  </location>
+               </place>
+			   <place xml:id="Gianzur">
+                  <settlement type="località">Gianzur</settlement>
+				  <location>
+					<geo decls="#WGS">Lat 32.8148 Lng 13.0177</geo>
+				  </location>
+               </place>
+			   <place xml:id="Rodi">
+                  <settlement type="località">Rodi</settlement>
+				  <location>
+					<geo decls="#WGS">Lat 36.4559 Lng 28.2265</geo>
+				  </location>
+               </place>
+               <place xml:id="Tripoli">
+                  <settlement type="località">Tripoli</settlement>
+				  <location>
+					<geo decls="#WGS">Lat 32.8872 Lng 13.1913</geo>
+				  </location>
+               </place>
+			   <place xml:id="Tobruch">
+                  <settlement type="località">Tobruch</settlement>
+				  <location>
+					<geo decls="#WGS">Lat 32.0819 Lng 23.9383</geo>
+				  </location>
+               </place>
+            </listPlace>
+			
+<!-- ########## Lista Enti  ########## -->
+
+            <listOrg>
+               <head>Organismi militari</head>
+               <org xml:id="Alpini">
+                  <orgName type="militari">Alpini</orgName>
+               </org>
+               <org xml:id="Ottavo_bersaglieri">
+                  <orgName type="militari">Ottavo bersaglieri</orgName>
+               </org>			   
+			</listOrg>
+			
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+               <div>
+				  <pb n="TR_ve_I" xml:id="TR_ve_I"/>				  
+                      <p xml:id="TR_ve_I_001" n="1"><emph>Il ritorno delle melle Ragazze da <placeName ref="#Tripoli">Tripoli</placeName></emph></p>
+					  <p xml:id="TR_ve_I_002" n="2">Siamo gia tornate dalla guerra tutte quante</p>
+					  <p xml:id="TR_ve_I_003" n="3">Svelte assultanti alla cità</p>
+					  <p xml:id="TR_ve_I_004" n="4">Chi da <placeName ref="#Derna">Derna</placeName> e chi da <placeName ref="#Tripoli">Tripoli</placeName> e che da <placeName ref="#Rodi">Rodi</placeName></p>
+					  <p xml:id="TR_ve_I_005" n="5">Piene di lodi e medaglie di valor</p>
+					  <p xml:id="TR_ve_I_006" n="6">La <persName ref="Rosina">Rosina</persName> lo racconta</p>
+					  <p xml:id="TR_ve_I_007" n="7">Mentre lei la monta</p>
+					  <p xml:id="TR_ve_I_008" n="8">Che le senpre pronta</p>
+					  <p xml:id="TR_ve_I_009" n="9">Aguereggiare e a schiopetate</p>
+					  <p xml:id="TR_ve_I_010" n="10">Quante palle o manegiato</p>
+					  <p xml:id="TR_ve_I_011" n="11">Con gran risultato</p>
+					  <p xml:id="TR_ve_I_012" n="12">Non o indietregiato i beduini paura non mi fan</p>
+					  <p xml:id="TR_ve_I_013" n="13">La terza che era negli <orgName ref="Alpini">Alpini</orgName></p>
+					  <p xml:id="TR_ve_I_014" n="14">Ai suoi cugini disse</p>
+					  <p xml:id="TR_ve_I_015" n="15">Quando a <placeName ref="#Tobruch">Tubruch</placeName> mi batevo giorno e notte</p>
+					  <p xml:id="TR_ve_I_016" n="16">Dio quante botte a quelli arabi li dai</p>
+					  <p xml:id="TR_ve_I_017" n="17">Mentre andavo in tutta fretta</p>
+					  <p xml:id="TR_ve_I_018" n="18">Su del colle in vetta</p>
+					  <p xml:id="TR_ve_I_019" n="19">Colle baionette</p>
+					  <p xml:id="TR_ve_I_020" n="20">Andavo forte</p>
+					  <p xml:id="TR_ve_I_021" n="21">Facevo la morte</p>
+					<pb n="TR_ve_II" xml:id="TR_ve_II"/>						  
+					  <p xml:id="TR_ve_II_001" n="22">Di quei arabi arrabbiati</p>
+					  <p xml:id="TR_ve_II_002" n="23">Quanti no infilati</p>
+					  <p xml:id="TR_ve_II_003" n="24">Gridavo senpre viva gli <orgName ref="Alpini">Alpini</orgName></p>
+					  <p xml:id="TR_ve_II_004" n="25">La <persName ref="Margherita">Margherita</persName> e nel <orgName ref="Ottavo_bersaglieri">Ottavo bersaglieri</orgName></p>
+					  <p xml:id="TR_ve_II_005" n="26">Senza pensieri era a <placeName ref="#Gianzur">Zanyur</placeName></p>
+					  <p xml:id="TR_ve_II_006" n="27">Quando correva con le piume sull'almetto</p>
+					  <p xml:id="TR_ve_II_007" n="28">Pareva il diretto che gran corse sapeva a far</p>
+					  <p xml:id="TR_ve_II_008" n="29">Quando andava poi lontano</p>
+					  <p xml:id="TR_ve_II_009" n="30">Svelta lei di mano</p>
+					  <p xml:id="TR_ve_II_010" n="31">Col suo capitano</p>
+					  <p xml:id="TR_ve_II_011" n="32">Erasi ardita restò poi ferita</p>
+					  <p xml:id="TR_ve_II_012" n="33">Ma si fece più coraggio</p>
+					  <p xml:id="TR_ve_II_013" n="34">Lo prese vantagio</p>
+					  <p xml:id="TR_ve_II_014" n="35">Li allungo il suo braccio</p>
+					  <p xml:id="TR_ve_II_015" n="36">Molti nemici li fece cader</p>
+					  <p xml:id="TR_ve_II_016" n="37">La carabina era nell'Artiglieria</p>
+					  <p xml:id="TR_ve_II_017" n="38">Con che allegria stava a puntare</p>
+					  <p xml:id="TR_ve_II_018" n="39">Vedeva il nemico si metteva in posizione</p>
+					  <p xml:id="TR_ve_II_019" n="40">Col suo cannone pronto per sparar</p>
+					  <p xml:id="TR_ve_II_020" n="41">Sici faceva delle mosse</p>
+					  <p xml:id="TR_ve_II_021" n="42">Con le palle grosse</p>
+					<pb n="TR_ve_III" xml:id="TR_ve_III"/>	
+					  <p xml:id="TR_ve_III_001" n="43">Giu per quelle fosse</p>
+					  <p xml:id="TR_ve_III_002" n="44">Bombardamento al gran cimento</p>
+					  <p xml:id="TR_ve_III_003" n="45">Mentre stavo li aspettare</p>
+					  <p xml:id="TR_ve_III_004" n="46">Sici vedeva volare</p>
+					  <p xml:id="TR_ve_III_005" n="47">E poi cascare</p>
+					  <p xml:id="TR_ve_III_006" n="48">Braccia stancare di quei beduini</p>
+					  <p xml:id="TR_ve_III_007" n="49">Sia domililà era nei cavalegeri</p>
+					  <p xml:id="TR_ve_III_008" n="50">Conli occhi aletri con gran valore</p>
+					  <p xml:id="TR_ve_III_009" n="51">Sei sul cavallo stava sempre accanto al caporale</p>
+					  <p xml:id="TR_ve_III_010" n="52">Tanto bene ci montava</p>
+					  <p xml:id="TR_ve_III_011" n="53">Lo galopava e il nemico scapava</p>
+					  <p xml:id="TR_ve_III_012" n="54">E in fila la lancia</p>
+					  <p xml:id="TR_ve_III_013" n="55">Tutta nella pancia</p>
+					  <p xml:id="TR_ve_III_014" n="56">Di brutti neri pien di pensieri</p>
+					  <p xml:id="TR_ve_III_015" n="57">Mentre si tiene in sella</p>
+					  <p xml:id="TR_ve_III_016" n="58">Sembra tanto bella</p>
+					  <p xml:id="TR_ve_III_017" n="59">Con la rivoltella</p>
+					  <p xml:id="TR_ve_III_018" n="60">Nepure i Turchi paura li fan</p>
+					  <p xml:id="TR_ve_III_019" n="61">Or questa donne amo il tenpo terminato</p>
+					  <p xml:id="TR_ve_III_020" n="62">Han queste navigato ormai lingua</p>
+					  <p xml:id="TR_ve_III_021" n="63">Oquella guerra ce qualcuna s'e ingrassata</p>
+					<pb n="TR_ve_IV" xml:id="TR_ve_IV"/>	
+					  <p xml:id="TR_ve_IV_001" n="64">E ritornatta grassa come un paloncino</p>
+					  <p xml:id="TR_ve_IV_002" n="65">C'e la <persName ref="Gera">Gera</persName> col' <persName ref="Anita">anita</persName></p>
+					  <p xml:id="TR_ve_IV_003" n="66">Come s'e inserichita</p>
+					  <p xml:id="TR_ve_IV_004" n="67">Senbra scheletrita</p>
+					  <p xml:id="TR_ve_IV_005" n="68">Pare un fusello senbra un canello</p>
+					  <p xml:id="TR_ve_IV_006" n="69">Son tornate tutte more</p>
+					  <p xml:id="TR_ve_IV_007" n="70">Ma gli bate il cuore</p>
+					  <p xml:id="TR_ve_IV_008" n="71">Per fare l'amore</p>
+					  <p xml:id="TR_ve_IV_009" n="72">Con quale bravo soldato Italiano</p>
+					  <p xml:id="TR_ve_IV_010" n="73">Bernardi Canto dei nell'... 20 <placeName ref="#Firenze">Firenz</placeName></p>
+					  <p xml:id="TR_ve_IV_011" n="74">Canzonetta stanpata prima di questa</p>
+					  <p xml:id="TR_ve_IV_012" n="75">Dicchiarazione di Amore</p>
+			</div>
+		</body>
+	</text>
+</TEI>

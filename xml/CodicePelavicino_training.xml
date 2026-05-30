@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "schema/tei_dse.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Codice Pelavicino</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Università di Pisa</publisher>
+            <pubPlace>Pisa</pubPlace>
+            <date>Da definire</date>
+            <availability>
+               <p>Il progetto è realizzato per la libera consultazione. Tutti i contenuti sono
+                  riproducibili a patto che se ne indichi la fonte.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Codice Pelavicino, Archivio del Capitolo della cattedrale, Sarzana (Italia)</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <text xml:id="CI_128">
+      <body>
+         <div xml:id="CI_div">
+            <pb n="214v" xml:id="fol_214v"/>
+            <p>De castro Sarzane.</p>
+            <p>(S.T.) In eterni Dei nomine, amen. Quemadmodum in instrumento publico manu
+               Bartholomei notarii confecto, quod ego Confortus notarius vidi et legi, continebatur,
+               dominus Pipinus, Dei gratia olim Lunensis episcopus, renovellavit, fecit et firmavit
+               per se et successores suos, consilio curie, tale pactum et talem constitutionem quale
+               et qualem fecerat dominus Albertus, bone memorie Lunensis episcopus, predecessor
+               suus, cum operariis omnibus de curte Sarzaneib. Uterque enim eorum, velut in eodem
+               instrumento legebatur, condonavit et remisit per se et suos successores omnibus
+               suprascriptis operariis dona et opera atque quod nullus eorum cogatur ad canevam
+               recipiendam nec ad castaldiam neque ad iscariam, nisi per voluntatem, excepto quod
+               omni anno debet unus eorum esse iscarius, si fuerit voluntas episcopi, et debet suum
+               feudum habere. Placita, districta, offensiones, amasiamenta omnia retinuerunt in se
+               et successores suos predicti domini episcopi et pro suprascripto pacto et conventione
+               debent suprascripti operarii omni anno dare viginti modia frumenti mundi et deferre
+               usque ad canevam vel ad granarium et centum congia vini ad palmentum et deferre usque
+               in canevam et debent laborare bradias et cafadium et reddere medietatem curie et
+               portare usque in canevam. Et episcopus debet eis dare bestias ad socerandum et ipsi
+               debent socerare; et, si non habuerint bestias ad socerandum, non debent dare nisi
+               terciam partem bradiarum, et si restopplaverint, terciam partem reddere debent; fenum
+               de prato debent portare ad fenile et debent bis in die comedere panem frumenti et
+               vinum, caseum, et episcopus debet facere coadunare fenum in prato; et alios attractus
+               debent facere, scilicet panem et vinum, carnes et annonam et fruges, de curte de
+               Soleria, de curte de Bolano, de curte de Carraria, de curte de Luna ad Sarzanam vel
+               ad Ameliam, et semel in die comedere. Pro facto pape vel imperatoris vel cardinalis
+               vel cancellarii debent facere attractus, si opus fuerit, per totum episcopatum; si
+               pro facto pape vel imperatoris vel guerre alii homines communiter dederint, atque
+               ipsi dare debent. Cum autem hec omnia suprascripta in predicto instrumento
+               continerentur:</p>
+            <p>§ nos Gualterius, Dei gratia Lunensis episcopus, consilio Gerardi, vicedomini nostri,
+               quondam Alberti vicedomini, nobiscum presentis, renovamus, facimus et confirmamus
+               
+               <pb n="215r" xml:id="fol_215r"/>
+               
+               predicta pacta et conventiones et constitutiones, addendo tamen et
+               minuendo et mutando seu commutando quedam ex ipsis, prout dicetur inferius, pro bono
+               et utilitate atque melioramento nostri episcopatus et nostre curie. Et hanc
+               renovationem atque confirmationem et commutationem et hec omnia, que infra leguntur,
+               facimus infrascriptis et cum infrascriptis operariis, recipientibus pro se et omnibus
+               pro se et omnibus aliis operariis de curte Sarzane et suo et eorum nomine per nos et
+               nostros successores. Quorum operariorum nomina sunt hec: Vernacius quondam Guilielmi
+               de Cantio, Ramundinus quondam Guidonis de Opizo, Bonavere quondam Macognani,
+               Compagnonus de Bertoloto, Formentinus quondam Rafanini, Ricius quondam Bottocii de
+               Oliveto, Sabbatinus quondam Albertacii, V&lt;i&gt;talis quondam Boneti, Baldinotus de
+               Pulica, Compagnus, Sarzanensis quondam Gandolfi, Ramondinus quondam Formentini de
+               Corciola, Thodescus quondam Bonizi, Martinus quondam Guerini, Symonetus quondam
+               Gerardini de Terriola, Gerardinus quondam Bettotii, Bonencontrus Ottoboni, Vitalis de
+               Donnolina, Vitalis de Beagua, Burgensis de Pulica, Oliverius de Canale Iannis,
+               Vitaletus de Bonno, Amicus quondam Aicardini, Attolinus de Gualdo, Morengnolus
+               quondam Gerardini de Terria, Buiardus quondamc Gerardini de Bonfante, Paganinus
+               quondam Boni de Oliveto, Fancinellus quondam Rafanini, Guilielmus quondam Martinelli
+               de Rafanino, Vitalis quondam Vindemioli de Tortiliano, Bernardus quondam Rafanini,
+               Bellandus quondam Vitalis escarii, Vitalis quondam Belseris, Guido de Montedarmo
+               quondam Dominici, Galopinus quondam Ricii de Montedarmo, Trampuliusd quondam Dominici
+               cortesiani, Salvus quondam Carençoli, Bonensegna quondam Rainerii de Cortiola,
+               Botrigellus quondam Fantinelli de Monçolono, Ugolinus frater eius, Bernardus quondam
+               Moregnoli, Rollandinus quondam Gualdi, Arnaldus quondam Ugolini, Rollandinus de
+               Montecello, Iuncta de Terria, Iuncta quondam Guilielmini de Serraursi, Forinus
+               quondam Ugolini de Pilato, Persona quondam Ubertini de Seraursi, Romeus quondam
+               Vitalis escarii, Sabbatinus de Seraursi, Rollandinus quondam Guilielmini, Vivianus
+               quondam Bosi, Bonavia quondam Dominici de Montedarmo, Bonencontrus quondam
+               Sarzanelli, Bonsegnus quondam Gerardini de Bonfante, Sabbatinus quondam Durantis
+               Ravolati, Henricus quondam Boni de Vignola, Alçadellus quondam Araldi, Rustigellus
+               quondam Vitalis escarii, Gerardus quondam Gerardini, Tiniosus frater eius,
+               Pasqualinus de Brasile, Castellanus de Monti, Gerardinus de Guitone.</p>
+            <p>§ Remittimus enim nos suprascriptus episcopus atque condonamus omnibus suprascriptis
+               hominibus, recipientibus pro se et omnibus aliis operariis de curte Sarzane et suis
+               et eorum heredibus suoque et eorum nomine, per nos et successores nostros, de hiis
+               que in prefacto instrumento manu Bartholomei notarii scripto continebantur, ut de
+               cetero non debeant nec teneantur portare fenum ad fenile neque
+               
+               <pb n="215v" xml:id="fol_215v"/>
+               
+               facere attractuse, scilicet panem aut vinum vel carnes vel annonam seu fruges, de curte de
+               Soleria vel de curte de Bolano aut de curte de Carraria seu de curte de Luna ad
+               Sarzanam vel ad Ameliam, set pro facto pape et imperatoris vel cardinalis vel
+               cancellarii debeant facere attractus, si opus fuerit, per totum episcopatum de pane,
+               vino, carne, annona et frugibus tantum; et insuper pro facto pape et imperatoris vel
+               guerre debent dare, si alii homines communiter dederint. Placita vero et districta,
+               offensiones et amasiamenta omnia retinemus in nos et nostros successores, sicut
+               fecerunt predecessores nostri. De facto vero bradiarum et cafagii et iscarie et
+               castaldie sit sicut in predicto instrumento continebatur. Verumptamen pro predictis
+               omnibus que eis remittimus et condonamus et facimus debeant dare curie nostre
+               annuatim illud affictum quod in dicto instrumento continebatur et soliti fuerant, et
+               tantum amplius quod frumentum sit modia viginti tria, ad staria viginti per modium ad
+               starium quod nunc currit, et vinum debeat esse congia centum, ad congium quod nunc
+               currit, atque ordeum debeat &lt;esse&gt; tantum quantum erat prius, set debet dari de
+               cetero ad starium quod nunc currit, et starium vel congium quod nunc currit numquam
+               crescere debeat nec minui, set sicut in eodem statu perpetuo permanere, et totum hoc
+               affictum deferatur ad granarium et ad canevam nostram de Sarzana; frumentum detur per
+               totum augustum mundum et siccum omni anno et vinum ad palmentum. Omnes suprascripti
+               homines ad sancta Dei evangelia iuraverunt dare annuatim curie totum illud quod
+               additum est in predicto afficto secundum quod cuilibet pro sua contingerit portione.
+               E&lt;t&gt; si aliquis foretanus de cetero intraverit in aliquo podere alicuius
+               operariorum, debeat iurare dare curie semper totum affictum illius poderis ad
+               voluntatem domini episcopi atque stare precise habitator in castro Sarzani. Ad horum
+               quoque omnium confirmationem confitemur nos recepisse ab omnibus predictis operariis
+               bonorum imperialium libras viginti, renuntiando exceptioni non numerate pecunie, quos
+               et nos et dictus Gerardus, vicedominus noster, atque ipsimet operarii predicti
+               confitemur fore datos et spenditos in expignoranda curia de Bolano, que cuidam Iuncte
+               de Vallerano fuerat nomine pignoris obligata, sub pena centum librarum imperialium.
+               Promiserunt sibi ad invicem contrahentes hec omnia rata habere, attendere et
+               observare et in nullo contravenire, rato manente pacto, post penam solutam parti
+               fidem servanti ab altera parte, obligando dominus episcopus se et suos successores et
+               predicti operarii se atque alios pro quibus hec faciebant et suos et eorum heredes,
+               et ita sibi ad invicem, ut supra legitur, per omnia et in omnibus sunt stipulantif
+               antedicti contrahentes.</p>
+            
+            <pb n="216r" xml:id="fol_216r"/>
+            
+            <p>Acta sunt hec omnia in palatio castri de Sarzana, anno a nativitate Domini M°CCXII,
+               indictione XV, die lune, secundo intrante mense aprilis, sollempniter. Ibi fuerunt
+               rogati testes presbyter Bonaiuncta de eodem castro, Armanus dyaconus atque plebanus
+               de Amelia, Gibertinus quondam Codendei de Burtione, Aldebrandetus de Soleria filius
+               Guidolini de Fossato, Assalitus quondam Tiniosi de Sancto Stephano et Vescontinus
+               quondam Bonencontri de Trebiano.</p>
+            <p>§ Sequenti proximo die martiis, tercio eiusdem mensis, in eodem castro, in domo
+               Ferrini, in presentia Vivaldi filii Ferrini et Bonacursi filii Albertini de Nobelino,
+               rogatorum testium. Alcarinus quondam Folcerii, pro se et investitus a Gerardo quondam
+               Bellandini de Oliveto, Alberto quondam Nobelini, Baroncello fratre eius, Nicolosio
+               quondam Claramici de Orto, Rainerio quondam Aicardini de Orto, Datio genero quondam
+               Rodolfini, Gerardo quondam Rollandini de Masio, Segnoreto quondam Rainerii de
+               Cortiola, Spinello quondam Baldicioni de Ponzanello, Guilielmo quondam Patiti de
+               Ortale, Melanesi quondam Grossoli de Platia et Amiliarino filio Parluntii, et supra
+               suam et eorum animam iuravit et pariter cum omnibus eis promisit Tinioso de Maroalco
+               et Ferrino, recipientibus pro dicto domino episcopo et suis successoribus, omnia que
+               superius leguntur, prout suprascripti omnes alii operarii iuraverunt et promiserunt,
+               perpetuo rata habere, attendere et observare atque in nullo contravenire simul atque
+               quisque pro se, approbantes totum et quicquid predicti fecerant cum dicto domino
+               episcopo, ut supra legitur, obligando etiam se suosque heredes, sicut predicti
+               fecerant et ad eamdem penam.</p>
+            <p>Ego Confortus, sacri palatii et Lunensis curie notarius, hiis omnibus interfui
+               rogatus et de voluntate contrahentium de isto contractu plures cartas uno tenore
+               scripsi.</p>
+            <p>(S.T.) Ego Pinosius nomine Iacopinus, Romanorum imperatoris notarius, auttenticum
+               huius exempli vidi et legi et ut in eo continebatur in hoc scripsi, nichil addens vel
+               minuens quod mutet sensum vel minuat intellectum.</p>
+            <p>(S.T.) Ego Prefectus, domini imperatoris atque Lunensis curie notarius, huius exempli
+               autenticum vidi atque legi et in eo scripsi, signum proprium apponendo.</p>
+            <p>(S.T.) Ego Bonencontrus de Soleria, aule sacre notarius, auttenticum huius exempli
+               vidi et legi, in quo continetur ut in isto legitur, atque rogatus scripsi, signum
+               proprium apponendo.</p>
+         </div>
+      </body>
+  </text>
+</TEI>
